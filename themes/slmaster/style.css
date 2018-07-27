@@ -1,5 +1,5 @@
 /*!
-Theme Name: SLMasters
+Theme Name: SLMaster
 Version: 1.0.0
 Text Domain: slmaster
 */
@@ -10,6 +10,6 @@ Text Domain: slmaster
 /*! == VARIABLES == */
 /*! == TYPOGRAPHY == */h1,h2,h3,h4,h5,h6{color:red;font-family:"Raleway Dots", cursive}p{color:grey}a{color:orange}body{font-family:"Lato", sans-serif}
 
-/*! == IMAGERY == */img{max-height:100%;width:auto;height:100%}.btn-link{color:grey;font-family:"Lato", sans-serif}.btn-link:hover{color:red}
+/*! == IMAGERY == */img{max-height:100%;width:auto;height:100%;-webkit-transform:rotate(3deg);-ms-transform:rotate(3deg);transform:rotate(3deg)}.btn-link{color:grey;font-family:"Lato", sans-serif}.btn-link:hover{color:red}
 
 /*! == PAGE STYLES == */#content{margin-top:50px}
