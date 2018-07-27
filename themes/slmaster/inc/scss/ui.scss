@@ -1,0 +1,8 @@
+.btn-link {
+	@include toggle-button;
+    
+    &:hover {
+        color:$sl-theme-primary;
+    }
+	
+}

@@ -1,0 +1,14 @@
+/*! == VARIABLES == */
+
+$sl-theme-primary: red;
+$sl-theme-secondary: grey;
+$sl-theme-tertiary: orange;
+
+$heading-font: 'Raleway Dots', cursive;
+$body-font: 'Lato', sans-serif;
+
+@mixin toggle-button {
+	color: $sl-theme-secondary;
+	font-family: $body-font;
+}
+
